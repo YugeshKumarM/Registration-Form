@@ -1,0 +1,58 @@
+.main{
+    padding: 20px;
+    align-items: center;
+    font-family: Arial;
+    box-shadow: 5px  5px 7px 5px #8888;
+    background-color: black;
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid white;
+    align-items: center;
+
+}
+
+input[type=submit]{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background-color: black;
+    border:none;
+    color: #764776;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+}
+
+.container{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+body{
+    background-color: #764776;
+}
+
+h2{
+    color: #764776;
+}
+
+::placeholder {
+    color:#764776;
+    opacity: 1;
+    font-size: small;
+  }
